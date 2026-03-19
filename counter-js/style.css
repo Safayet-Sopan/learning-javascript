@@ -1,0 +1,39 @@
+#mainCounter {
+    display: block;
+    text-align: center;
+    font-size: 10em;
+    font-family: JetBrains Mono;
+}
+
+#btnContainer {
+    text-align: center;
+}
+
+.mainButtons {
+    padding: 15px 80px;
+    font-size: 1.5em;
+    font-family: JetBrains Mono;
+    border-radius: 10px;
+    border-color: #090537;
+    border-style: none;
+    background-color: #c8cefb;
+    color: #090537;
+    cursor: pointer;
+    margin: 15px;
+    transition: background-color 0.25s;
+}
+
+.mainButtons:hover {
+    background-color: #a4aef8;
+}
+
+.app {
+    height: 100vh;
+    display: flex;
+    justify-content: center; /* horizontal */
+    align-items: center;     /* vertical */
+}
+
+.content {
+    text-align: center;
+}
