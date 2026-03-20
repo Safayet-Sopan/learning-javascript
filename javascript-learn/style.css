@@ -1,0 +1,29 @@
+.mainIfClass {
+    text-align: center;
+    margin-top: 10%;
+    
+}
+
+#ifLabel {
+    text-align: center;
+    font-family: JetBrains Mono;
+    font-size: 2em;
+}
+
+#ifInput {
+    text-align: center;
+    font-family: JetBrains Mono;
+    font-size: 2em;
+}
+
+#ifBtn {
+    text-align: center;
+    font-family: JetBrains Mono;
+    font-size: 2em;
+}
+
+#mainText {
+    text-align: center;
+    font-family: JetBrains Mono;
+    font-size: 2em;
+}
